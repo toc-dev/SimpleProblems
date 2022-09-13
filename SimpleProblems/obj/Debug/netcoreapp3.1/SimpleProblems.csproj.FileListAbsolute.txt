@@ -1,0 +1,14 @@
+C:\Users\Tochukwu\source\repos\SimpleProblems\SimpleProblems\bin\Debug\netcoreapp3.1\SimpleProblems.exe
+C:\Users\Tochukwu\source\repos\SimpleProblems\SimpleProblems\bin\Debug\netcoreapp3.1\SimpleProblems.deps.json
+C:\Users\Tochukwu\source\repos\SimpleProblems\SimpleProblems\bin\Debug\netcoreapp3.1\SimpleProblems.runtimeconfig.json
+C:\Users\Tochukwu\source\repos\SimpleProblems\SimpleProblems\bin\Debug\netcoreapp3.1\SimpleProblems.runtimeconfig.dev.json
+C:\Users\Tochukwu\source\repos\SimpleProblems\SimpleProblems\bin\Debug\netcoreapp3.1\SimpleProblems.dll
+C:\Users\Tochukwu\source\repos\SimpleProblems\SimpleProblems\bin\Debug\netcoreapp3.1\SimpleProblems.pdb
+C:\Users\Tochukwu\source\repos\SimpleProblems\SimpleProblems\obj\Debug\netcoreapp3.1\SimpleProblems.csproj.AssemblyReference.cache
+C:\Users\Tochukwu\source\repos\SimpleProblems\SimpleProblems\obj\Debug\netcoreapp3.1\SimpleProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tochukwu\source\repos\SimpleProblems\SimpleProblems\obj\Debug\netcoreapp3.1\SimpleProblems.AssemblyInfoInputs.cache
+C:\Users\Tochukwu\source\repos\SimpleProblems\SimpleProblems\obj\Debug\netcoreapp3.1\SimpleProblems.AssemblyInfo.cs
+C:\Users\Tochukwu\source\repos\SimpleProblems\SimpleProblems\obj\Debug\netcoreapp3.1\SimpleProblems.csproj.CoreCompileInputs.cache
+C:\Users\Tochukwu\source\repos\SimpleProblems\SimpleProblems\obj\Debug\netcoreapp3.1\SimpleProblems.dll
+C:\Users\Tochukwu\source\repos\SimpleProblems\SimpleProblems\obj\Debug\netcoreapp3.1\SimpleProblems.pdb
+C:\Users\Tochukwu\source\repos\SimpleProblems\SimpleProblems\obj\Debug\netcoreapp3.1\SimpleProblems.genruntimeconfig.cache
